@@ -3,8 +3,11 @@ This project demonstrates the use of the gym package to implement the Frozen Lak
 
 # Prerequisites
  > Python 3.x
+ 
  > gym package
+ 
  > numpy package
+ 
 # Installation
 ## Clone the repository:
 git clone https://github.com/your-username/frozen-lake-q-learning.git
